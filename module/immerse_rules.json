@@ -7255,7 +7255,7 @@
       "activityRules": {
         "*": {
           "mode": 2,
-          "color": null
+          "color": null,
           "sf_sampling_mode": 1,
           "appNavColorDisabled": 1
         }
