@@ -7223,7 +7223,7 @@
       "activityRules": {
         "*": {
           "mode": 2,
-          "color": null,
+          "color": null
         }
       }
     },
@@ -7233,7 +7233,7 @@
       "activityRules": {
         "*": {
           "mode": 2,
-          "color": null,
+          "color": null
         }
       }
     },
@@ -7245,7 +7245,7 @@
           "mode": 2,
           "color": null,
           "sf_sampling_mode": 1,
-          "appNavColorDisabled": 1,
+          "appNavColorDisabled": 1
         }
       }
     },
@@ -7257,7 +7257,7 @@
           "mode": 2,
           "color": null
           "sf_sampling_mode": 1,
-          "appNavColorDisabled": 1,
+          "appNavColorDisabled": 1
         }
       }
     },
