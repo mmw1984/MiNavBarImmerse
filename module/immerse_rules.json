@@ -7217,6 +7217,50 @@
         }
       }
     },
+    "com.xiaomi.wearable": {
+      "name": "Mi Fitness",
+      "enable": true,
+      "activityRules": {
+        "*": {
+          "mode": 2,
+          "color": null,
+        }
+      }
+    },
+  "com.google.android.apps.fitness": {
+      "name": "Fit",
+      "enable": true,
+      "activityRules": {
+        "*": {
+          "mode": 2,
+          "color": null,
+        }
+      }
+    },
+  "com.instagram.android": {
+      "name": "Instagram",
+      "enable": true,
+      "activityRules": {
+        "*": {
+          "mode": 2,
+          "color": null,
+          "sf_sampling_mode": 1,
+          "appNavColorDisabled": 1,
+        }
+      }
+    },
+      "com.whatsapp": {
+      "name": "WhatsApp",
+      "enable": true,
+      "activityRules": {
+        "*": {
+          "mode": 2,
+          "color": null
+          "sf_sampling_mode": 1,
+          "appNavColorDisabled": 1,
+        }
+      }
+    },
     "xzr.konabess": {
       "name": "KonaBess",
       "enable": true,
