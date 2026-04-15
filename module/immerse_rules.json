@@ -1888,6 +1888,16 @@
         }
       }
     },
+    "com.google.android.apps.fitness": {
+      "name": "Fit",
+      "enable": true,
+      "activityRules": {
+        "*": {
+          "mode": 2,
+          "color": null
+        }
+      }
+    },
     "com.google.android.gms": {
       "name": "Google Play 服务",
       "enable": true,
@@ -2203,6 +2213,18 @@
         "*": {
           "mode": 2,
           "color": null
+        }
+      }
+    },
+    "com.instagram.android": {
+      "name": "Instagram",
+      "enable": true,
+      "activityRules": {
+        "*": {
+          "mode": 2,
+          "color": null,
+          "sf_sampling_mode": 1,
+          "appNavColorDisabled": 1
         }
       }
     },
@@ -6050,6 +6072,18 @@
         }
       }
     },
+    "com.whatsapp": {
+      "name": "WhatsApp",
+      "enable": true,
+      "activityRules": {
+        "*": {
+          "mode": 2,
+          "color": null,
+          "sf_sampling_mode": 1,
+          "appNavColorDisabled": 1
+        }
+      }
+    },
     "com.wisedu.cpdaily": {
       "name": "今日校园",
       "enable": true,
@@ -6289,6 +6323,16 @@
       "enable": true,
       "activityRules": {
         "com.xiaomi.vipaccount.newbrowser.NormalWebActivity": {
+          "mode": 2,
+          "color": null
+        }
+      }
+    },
+    "com.xiaomi.wearable": {
+      "name": "Mi Fitness",
+      "enable": true,
+      "activityRules": {
+        "*": {
           "mode": 2,
           "color": null
         }
@@ -7214,50 +7258,6 @@
         "*": {
           "mode": 2,
           "color": null
-        }
-      }
-    },
-    "com.xiaomi.wearable": {
-      "name": "Mi Fitness",
-      "enable": true,
-      "activityRules": {
-        "*": {
-          "mode": 2,
-          "color": null
-        }
-      }
-    },
-  "com.google.android.apps.fitness": {
-      "name": "Fit",
-      "enable": true,
-      "activityRules": {
-        "*": {
-          "mode": 2,
-          "color": null
-        }
-      }
-    },
-  "com.instagram.android": {
-      "name": "Instagram",
-      "enable": true,
-      "activityRules": {
-        "*": {
-          "mode": 2,
-          "color": null,
-          "sf_sampling_mode": 1,
-          "appNavColorDisabled": 1
-        }
-      }
-    },
-      "com.whatsapp": {
-      "name": "WhatsApp",
-      "enable": true,
-      "activityRules": {
-        "*": {
-          "mode": 2,
-          "color": null,
-          "sf_sampling_mode": 1,
-          "appNavColorDisabled": 1
         }
       }
     },
